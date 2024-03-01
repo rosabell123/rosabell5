@@ -1,0 +1,25 @@
+nav ul li {
+    margin: 30px;
+    display: inline;
+    color: rgb(255, 255, 255);
+    font-family: verdana;
+}
+nav ul li:hover {
+    background-color: rgb(255, 255, 255);
+}
+body {
+    background-image: url(download.jpg);
+    background-size: cover;
+}
+footer {
+    background-image: url();
+    background-size: cover;
+    padding: 10px 0;
+}
+header {
+    background-image: url(ppp.avif);
+    background-size: cover;
+}
+ul li a {
+    color: black;
+}
